@@ -9,3 +9,5 @@
 - Create the styling for the site
 - Create the nessesary pages for thee site
 - Create any required JS scripts
+# License 
+- This repository will be using the MIT License
