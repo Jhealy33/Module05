@@ -1,4 +1,4 @@
-# Contributers
+# Contributors
 
 Ian Dennis
 username: ind9-nau
